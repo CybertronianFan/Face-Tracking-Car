@@ -25,8 +25,13 @@ Components I used (Some of these can be substituted for other appropriate compon
 
 
 
+
+
 Set-up Guidance:
-Make a project folder on the Raspberry Pi with the files you must download labelled "Camera\_Car\_RaspberryPi\_Code" and the file labelled "haarcascade\_frontalface\_default"
+
+* Make a project folder on the Raspberry Pi with the files you must download labelled "Camera\_Car\_RaspberryPi\_Code" and the file labelled "haarcascade\_frontalface\_default"
+
+
 
 
 
@@ -38,6 +43,8 @@ Building Guidance:
 * Connect the top left motor to M1, top right to M2, bottom left to M3, bottom right to M4.
 * The power bank should be giving power to the Raspberry Pi, which will be giving power via USB to the Arduino Uno.
 * Note that the batteries should be powering the driver shield.
+
+
 
 
 
