@@ -12,16 +12,16 @@ By CybertronianFan on GitHub. Please do not take my work without asking.
 
 Components I used (Some of these can be substituted for other appropriate components):
 
-* 4 gear motors
+* 4 DC gear motors
 * 4 wheels for the gear motors
 * Arduino Uno
-* DFROBOT Quad Motor Driver Shield for Arduino Uno
+* DFRobot Quad Motor Driver Shield for Arduino Uno
 * Raspberry Pi 3 Model B+
 * 2 18650 Batteries
 * 18650 Battery holder
 * Logitech C270
 * A power bank or portable power source for the Raspberry Pi
-* Cardboard for the rover shell + some way to connect the components (I used zip ties)
+* Cardboard for the rover chassis/shell + some way to connect the components (I used zip ties)
 
 
 
